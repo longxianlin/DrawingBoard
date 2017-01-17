@@ -1,3 +1,7 @@
+有问题请问原作者。
+
+xcode8.2 swift3.1
+
 # DrawingBoard
 #### <a href="http://blog.csdn.net/zhangao0086/article/details/43836789" target="_blank">博客地址</a>
 
